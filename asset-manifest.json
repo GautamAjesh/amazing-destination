@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/amazing-destination/static/css/main.fff80d9e.css",
-    "main.js": "/amazing-destination/static/js/main.f9ae6691.js",
+    "main.js": "/amazing-destination/static/js/main.c7253d3b.js",
     "static/js/453.890b56fc.chunk.js": "/amazing-destination/static/js/453.890b56fc.chunk.js",
     "static/media/homeimg.jpeg": "/amazing-destination/static/media/homeimg.3ece5ba0fe216d14f2bb.jpeg",
     "static/media/logo.webp": "/amazing-destination/static/media/logo.4ea434a382169b9ba36d.webp",
     "index.html": "/amazing-destination/index.html",
     "main.fff80d9e.css.map": "/amazing-destination/static/css/main.fff80d9e.css.map",
-    "main.f9ae6691.js.map": "/amazing-destination/static/js/main.f9ae6691.js.map",
+    "main.c7253d3b.js.map": "/amazing-destination/static/js/main.c7253d3b.js.map",
     "453.890b56fc.chunk.js.map": "/amazing-destination/static/js/453.890b56fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fff80d9e.css",
-    "static/js/main.f9ae6691.js"
+    "static/js/main.c7253d3b.js"
   ]
 }
