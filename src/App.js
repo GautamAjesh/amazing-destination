@@ -6,6 +6,8 @@ import Home from './components/Home';
 import Destination from './components/Destination';
 import Blog from './components/Blog';
 import ThingsToDo from './components/ThingsToDo';
+import Gallery from './components/Gallery';
+import About from './components/About';
 import './App.css';
 
 const App = () => {
@@ -19,6 +21,8 @@ const App = () => {
           <Route path="/destination" element={<Destination />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/things-to-do" element={<ThingsToDo />} />
+          <Route path="/gallery" element={<Gallery />} />
+          <Route path="/about" element={<About />} />
         </Routes>
       </Router>{/* Main content of the page */}
       </div>
